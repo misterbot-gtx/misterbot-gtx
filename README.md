@@ -119,7 +119,7 @@ Me chamo Carlos Xavier, sou apaixonado por tecnologia, programação e resoluç�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=misterbot-gtx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![misterbot-gtx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=misterbot-gtx&theme=omni&hide_border=true)" 
   />
 
   <img 
